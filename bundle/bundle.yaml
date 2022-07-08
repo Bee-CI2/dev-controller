@@ -6,3 +6,4 @@ availabilityPattern: "cloudbees-ci-casc-workshop/bee-ci2/dev-controller"
 parent: "base"
 rbac:
   - "rbac.yaml"
+
